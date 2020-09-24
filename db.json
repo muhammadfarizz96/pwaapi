@@ -1,0 +1,85 @@
+{
+"products": [
+{
+  "id": 1,
+  "name": "Turtle, snake-necked",
+  "category": "Turquoise"
+}, {
+  "id": 2,
+  "name": "Yellow-necked spurfowl",
+  "category": "Pink"
+}, {
+  "id": 3,
+  "name": "Egyptian goose",
+  "category": "Puce"
+}, {
+  "id": 4,
+  "name": "Dove, rock",
+  "category": "Green"
+}, {
+  "id": 5,
+  "name": "Dassie",
+  "category": "Yellow"
+}, {
+  "id": 6,
+  "name": "Wombat, common",
+  "category": "Orange"
+}, {
+  "id": 7,
+  "name": "Asian water dragon",
+  "category": "Goldenrod"
+}, {
+  "id": 8,
+  "name": "Falcon, prairie",
+  "category": "Goldenrod"
+}, {
+  "id": 9,
+  "name": "Squirrel, arctic ground",
+  "category": "Blue"
+}, {
+  "id": 10,
+  "name": "African lynx",
+  "category": "Aquamarine"
+}, {
+  "id": 11,
+  "name": "Tortoise, desert",
+  "category": "Fuscia"
+}, {
+  "id": 12,
+  "name": "Lizard, blue-tongued",
+  "category": "Blue"
+}, {
+  "id": 13,
+  "name": "Owl, great horned",
+  "category": "Red"
+}, {
+  "id": 14,
+  "name": "Blue shark",
+  "category": "Red"
+}, {
+  "id": 15,
+  "name": "Common palm civet",
+  "category": "Orange"
+}, {
+  "id": 16,
+  "name": "Dove, white-winged",
+  "category": "Maroon"
+}, {
+  "id": 17,
+  "name": "Tortoise, indian star",
+  "category": "Indigo"
+}, {
+  "id": 18,
+  "name": "Rhea, greater",
+  "category": "Teal"
+}, {
+  "id": 19,
+  "name": "Eastern quoll",
+  "category": "Indigo"
+}, {
+  "id": 20,
+  "name": "Desert spiny lizard",
+  "category": "Fuscia"
+}
+]
+}
